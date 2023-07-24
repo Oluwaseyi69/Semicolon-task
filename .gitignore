@@ -25,6 +25,7 @@ bin/
 
 ### VS Code ###
 .vscode/
+cohort17.iml
 
 ### Mac OS ###
 .DS_Store

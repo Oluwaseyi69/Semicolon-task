@@ -13,7 +13,6 @@ public class CreditCardValidator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        //validator
         System.out.println("Hello, Kindly Enter card details to verify: ");
         String cardNumber = scan.next();
         if (cardNumber.length() >= 13 && cardNumber.length() <= 16) {
