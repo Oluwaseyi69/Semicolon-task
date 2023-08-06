@@ -3,7 +3,7 @@ package tdd.practice;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class AverageArray {
+public class ThreeBySeven {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[][] number = new int[3][7];

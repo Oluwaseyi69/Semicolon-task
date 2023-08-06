@@ -398,7 +398,7 @@ public class PersonalityTest {
         Scanner scan = new Scanner(System.in);
         System.out.println("""
                 18)
-                A. Facts, things, what iS		 \s
+                A. Facts, things, "what iS"		 \s
                 B. Ideas, dreams, what could be, philosophical: \s""");
         String userInput = scan.next();
         if (userInput.equalsIgnoreCase("a")){
