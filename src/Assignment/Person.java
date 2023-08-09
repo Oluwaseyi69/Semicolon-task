@@ -1,4 +1,4 @@
-package MBTI;
+package Assignment;
 
 public class Person extends Problem{
     private ProblemType problem;

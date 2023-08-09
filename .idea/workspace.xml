@@ -5,32 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c269b9b-13f4-4277-bf3e-64849b24a69b" name="Changes" comment="added Files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI/PositionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI/Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI/ProblemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MBTI/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tdd/practice/SevenByThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Password.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MBTI/PersonalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MBTI/PersonalityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MBTI/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MBTI/StudentGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/practice/AverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/practice/ThreeBySeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/practice/SpecialCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/practice/SpecialCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ArrayTest/ElementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ArrayTest/ElementTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/BikeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/ClassHeartRateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/ClassHeartRateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/ClockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/DigitalClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/DigitalClockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/FactorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Mp3PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Mp3PlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Snacks_16_07/tdd/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Snacks_16_07/tdd/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Snacks_16_07/tdd/PowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/Snacks_16_07/tdd/PowerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/TelevisionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/TelevisionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/newTest/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/newTest/TestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/PersonalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/PersonalityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/PositionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/PositionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/ProblemType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/ProblemType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MBTI/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/StudentGrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +85,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PositionTest.testThePositionOfNumbers">
-    <configuration name="Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MBTI.Position" />
+  <component name="RunManager" selected="Application.Password">
+    <configuration name="CheckOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.CheckOut" />
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MBTI.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tdd.practice.SevenByThree" />
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Password" />
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.practice.*" />
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Position" />
+      <module name="cohort17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,24 +126,11 @@
       </method>
     </configuration>
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MBTI.Student" />
+      <option name="MAIN_CLASS_NAME" value="Assignment.Student" />
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MBTI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MBTI.StudentGrade" />
-      <module name="cohort17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MBTI.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +142,12 @@
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MBTI.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MBTI" />
-      <option name="MAIN_CLASS_NAME" value="MBTI.PositionTest" />
+      <option name="MAIN_CLASS_NAME" value="Assignment.PositionTest" />
       <option name="METHOD_NAME" value="testThePositionOfNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -171,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Password" />
+        <item itemvalue="Application.CheckOut" />
         <item itemvalue="JUnit.PositionTest.testThePositionOfNumbers" />
         <item itemvalue="Application.Position" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.StudentGrade" />
-        <item itemvalue="Application.SevenByThree" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +187,12 @@
       <workItem from="1690976493562" duration="2742000" />
       <workItem from="1691009349396" duration="18633000" />
       <workItem from="1691095265594" duration="8484000" />
-      <workItem from="1691218116767" duration="7409000" />
+      <workItem from="1691218116767" duration="16884000" />
+      <workItem from="1691359502050" duration="2626000" />
+      <workItem from="1691391496050" duration="5197000" />
+      <workItem from="1691426787099" duration="17774000" />
+      <workItem from="1691527635480" duration="15547000" />
+      <workItem from="1691586561287" duration="10013000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Files">
       <option name="closed" value="true" />
@@ -260,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691308555993</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Files">
+      <option name="closed" value="true" />
+      <created>1691308797529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691308797529</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added Files">
+      <option name="closed" value="true" />
+      <created>1691308960632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691308960632</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +293,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MBTI/PositionTest.java</url>
+          <url>file://$PROJECT_DIR$/src/Assignment/PositionTest.java</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

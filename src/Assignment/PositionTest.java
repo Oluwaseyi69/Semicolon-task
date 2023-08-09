@@ -1,4 +1,4 @@
-package MBTI;
+package Assignment;
 
 import org.junit.Test;
 

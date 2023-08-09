@@ -1,4 +1,4 @@
-package MBTI;
+package Assignment;
 
 public class Position {
     private int highest;
