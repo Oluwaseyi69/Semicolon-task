@@ -18,7 +18,7 @@ public class CheckOut {
 
 
     public static void main(String[] args) {
-        CheckOut checkOut = new CheckOut();
+        CheckOut checkOut = new CheckOut(); // declared all variables
         String customerName = checkOut.customerName();
         double subtotal = checkOut.subTotal;
         double total = checkOut.total();
@@ -35,6 +35,7 @@ public class CheckOut {
         System.out.println("Sub Total: "+ " " + subtotal);
         System.out.println("Discount: " + " " + discounted);
         System.out.println("VAT: "+ " "+ vat);
+//        checkOut.printing();
 
 //        System.out.println("Total" + " "+total );
 
@@ -69,17 +70,15 @@ public class CheckOut {
         priceList.add(price);
 
         moreItems();
-
-
     }
     public void printing(){
         for (int index = 0; index < itemName.size(); index++) {
             double total = quantityList.get(index) * priceList.get(index);
-            System.out.printf("%10s %10d %10.2f %10.2f%n", itemName.get(index),
-                    quantityList.get(index), priceList.get(index), total);
-            subTotal+=total;
-            double discount = input.nextDouble();
-            discounted = ((discount/100) * subTotal);
+//            subTotal+=total;
+//            double discount = input.nextDouble();
+//            discounted = ((discount/100) * subTotal);
+            System.out.printf("%10s %10d %10.2f %10.2f%n", itemName.get(index), quantityList.get(index), priceList.get(index), total);
+
 
         }
 
@@ -99,15 +98,14 @@ public class CheckOut {
         System.out.println("What is your name?");
         String cashier = input.next();
         System.out.println("How much discount will he get?");
-        String dicount = input.next();
+        String discount = input.next();
 
     }
+
     public void vat(){
         double vat = 0.175 * subTotal;
     }
-//    public void header(){
-//
-//    }
+
 
 
 

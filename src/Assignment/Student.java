@@ -73,12 +73,12 @@ public class Student {
         filler();
     }
     public void saving() throws InterruptedException {
-        System.out.print("Saving");
+        System.out.println("Saving");
         for (int counter = 0; counter < 10; counter++) {
-            System.out.print(">");
+            System.out.println(">");
             Thread.sleep(150);
         }
-        System.out.println("\nSaved Successfully");
+        System.out.println("Saved Successfully");
     }
     public void headerPrinter(){
         for (int index = 0; index < scored[0].length; index++) {

@@ -7,7 +7,7 @@ public enum GeopoliticalZones {
 
     SOUTH_SOUTH("Akwa-Ibom, Bayelsa, Cross-River, Delta, Edo, Rivers States"),
     SOUTH_EAST("Abia, Anambra, Ebonyi, Imo States"),
-    SOUTH_WEST("Ekiti, Lagos, Ogun, Oyo States");
+    SOUTH_WEST("Ekiti, Lagos, Ogun, Oyo States"), Benue(NORTH_CENTRAL.name());
 
 
 

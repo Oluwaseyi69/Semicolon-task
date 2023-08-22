@@ -11,7 +11,7 @@ public enum GeoZones {
     SOUTH_WEST("Ekiti", "Lagos", " Osun", "Ondo", "Ogun", "Oyo");
 
 
-    private  String[] states;
+    private String[] states;
 
     public String[] getStates() {
         return states;
