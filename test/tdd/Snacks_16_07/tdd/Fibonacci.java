@@ -20,7 +20,7 @@ public static void main(String[] args) {
     for (int i = 2; i < n; i++){
         fib[i] = fib[i - 1] + fib[i - 2];
     }
-    System.out.println("Fibonacci");
+    System.out.println("Fibonacc:");
     for (int num : fib){
         System.out.println(num + " ");
     }
