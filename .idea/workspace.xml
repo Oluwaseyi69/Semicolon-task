@@ -5,31 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c269b9b-13f4-4277-bf3e-64849b24a69b" name="Changes" comment="added Files">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/DataStructures/ListArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/DataStructures/ListArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/DataStructures/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/GeoZonesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/BillingInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/CreditCardInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/EmailAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/HomeAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/ProductCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/Sellers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/eStore/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TurtleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/practice/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/practice/LcmGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/CheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/CheckOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/GeoZones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/GeoZones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Nigeria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Nigeria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/practice/GeopoliticalZones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/practice/GeopoliticalZones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/practice/SevenSegmentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tdd/practice/SpecialCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/Snacks_16_07/tdd/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tdd/newTest/TestTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +89,7 @@
       <recent name="Assignment.DataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListArrayTest">
+  <component name="RunManager" selected="Application.GreatestCommonDivisor">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.ArrayList" />
       <module name="cohort17" />
@@ -121,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.ArrayList" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.Snacks_16_07.tdd.Fibonacci" />
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.DataStructures.*" />
+          <option name="PATTERN" value="tdd.Snacks_16_07.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ColletionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.ColletionTest" />
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.practice.GreatestCommonDivisor" />
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.DataStructures.*" />
+          <option name="PATTERN" value="tdd.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.Set" />
+    <configuration name="LcmGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdd.practice.LcmGenerator" />
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.DataStructures.*" />
+          <option name="PATTERN" value="tdd.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,48 +142,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.DataStructures.*" />
+          <option name="PATTERN" value="tdd.Snacks_16_07.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Assignment.DataStructures" />
-      <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.ListArrayTest" />
+      <option name="PACKAGE_NAME" value="tdd.Snacks_16_07.tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.Snacks_16_07.tdd.FibonacciTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListArrayTest.testThatListCanBeAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciTest.testForFibonacci" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cohort17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment.DataStructures.*" />
+          <option name="PATTERN" value="tdd.Snacks_16_07.tdd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Assignment.DataStructures" />
-      <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.ListArrayTest" />
-      <option name="METHOD_NAME" value="testThatListCanBeAdded" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListArrayTest.testThatListCanBeCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cohort17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment.DataStructures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Assignment.DataStructures" />
-      <option name="MAIN_CLASS_NAME" value="Assignment.DataStructures.ListArrayTest" />
-      <option name="METHOD_NAME" value="testThatListCanBeCreated" />
+      <option name="PACKAGE_NAME" value="tdd.Snacks_16_07.tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.Snacks_16_07.tdd.FibonacciTest" />
+      <option name="METHOD_NAME" value="testForFibonacci" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -209,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListArrayTest" />
-        <item itemvalue="JUnit.ListArrayTest.testThatListCanBeAdded" />
-        <item itemvalue="JUnit.ListArrayTest.testThatListCanBeCreated" />
-        <item itemvalue="Application.ArrayList" />
-        <item itemvalue="Application.ColletionTest" />
+        <item itemvalue="Application.GreatestCommonDivisor" />
+        <item itemvalue="Application.LcmGenerator" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="JUnit.FibonacciTest" />
+        <item itemvalue="JUnit.FibonacciTest.testForFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +225,8 @@
       <workItem from="1692622405339" duration="876000" />
       <workItem from="1692633739931" duration="7008000" />
       <workItem from="1692655451423" duration="158000" />
-      <workItem from="1692655653730" duration="6760000" />
+      <workItem from="1692655653730" duration="7389000" />
+      <workItem from="1692738119981" duration="5216000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Files">
       <option name="closed" value="true" />
@@ -349,7 +316,31 @@
       <option name="project" value="LOCAL" />
       <updated>1691710914433</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added Files">
+      <option name="closed" value="true" />
+      <created>1692664104957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692664104957</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added Files">
+      <option name="closed" value="true" />
+      <created>1692740747401</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692740747401</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added Files">
+      <option name="closed" value="true" />
+      <created>1692741157196</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692741157196</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
