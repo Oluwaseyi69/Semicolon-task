@@ -42,7 +42,6 @@ public class BankTest {
        bank.deposit(5_000, "1");
        assertEquals(5_000, bank.checkBalance("1", "pin"),0.0);
        bank.transfer(3000,"1", "2","pin");
-//       bank.findAccount("2");
 
 
        assertEquals(2000,bank.checkBalance("1","pin"),0.0);
