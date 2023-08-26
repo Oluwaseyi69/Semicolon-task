@@ -44,10 +44,7 @@ package Assignment.BankApp;
             this.balance = balance;
         }
 
-//    public double getWithdrawal(double newBalance) {
-//        newBalance = balance - amount;
-//        return newBalance;
-//    }
+
 
         public String getAccount() {
             return accountNumber + " " + accountName +" "+ pin;
